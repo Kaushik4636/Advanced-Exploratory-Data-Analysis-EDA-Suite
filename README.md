@@ -127,6 +127,3 @@ numpy==1.26.5
 ## License
 
 MIT License
-
-Do you want me to guide you in **pushing this EDA Suite to GitHub** next?
-```
